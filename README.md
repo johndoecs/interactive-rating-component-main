@@ -26,13 +26,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Desktop](./screenshot-desktop.jpeg)
+![Mobile](./screenshot-thank-you.jpeg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/johndoecs/interactive-rating-component-main](https://github.com/johndoecs/interactive-rating-component-main)
+- Live Site URL: [https://johndoecs.github.io/interactive-rating-component-main/](https://johndoecs.github.io/interactive-rating-component-main/)
 
 ## My process
 
@@ -43,3 +44,4 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- Accessibility
